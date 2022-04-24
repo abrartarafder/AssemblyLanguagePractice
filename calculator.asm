@@ -1,4 +1,3 @@
-; lecture example 03 -- odd or even"
 extern printf
 extern scanf
 
